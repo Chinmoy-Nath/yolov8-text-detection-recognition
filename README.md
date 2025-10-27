@@ -37,15 +37,9 @@ text
 ## ⚡ Quick Start
 
 1. Clone this repo
-2. Install dependencies:
-pip install -r requirements.txt
-
-text
+2. Install dependencies: pip install -r requirements.txt
 3. Download and place your model `.pt` files in `models/`.
-4. Run the app:
-python frontend/gradio_app.py
-
-text
+4. Run the app: python frontend/gradio_app.py
 5. Open the local URL printed by Gradio
 
 ---
