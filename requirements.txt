@@ -1,0 +1,6 @@
+gradio
+opencv-python
+torch
+ultralytics
+easyocr
+numpy
